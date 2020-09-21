@@ -58,29 +58,29 @@ var info={
 var lookup={
     hci:{
         staff:"Dr Vincent Antony Kumar",
-        google_meet:"https://meet.google.com/hby-rirj-kje",
+        google_meet:"https://meet.google.com/hby-rirj-kje?pli=1&authuser=1",
         
     },
     spm:{
         staff:"Sudha R",
-        google_meet:"https://meet.google.com/qiq-urvu-hag ",
+        google_meet:"https://meet.google.com/qiq-urvu-hag?pli=1&authuser=1 ",
         
     },
     hm:{
         staff:"Dr Pavalarajan",
-        google_meet:"https://meet.google.com/gbs-phos-sqm",
+        google_meet:"https://meet.google.com/gbs-phos-sqm?pli=1&authuser=1",
     },
     pom:{
         staff:"Dr.P.S.Venkateswaran",
-        google_meet:"https://meet.google.com/lookup/a5qatmall3",
+        google_meet:"https://meet.google.com/lookup/a5qatmall3?pli=1&authuser=1",
     }, 
     cns:{
         staff:"A.Sangeetha",
-        google_meet:"https://meet.google.com/pkd-ffqf-pwa",
+        google_meet:"https://meet.google.com/pkd-ffqf-pwa?pli=1&authuser=1",
     },
     cc:{
         staff:"Dr.K.Muthumayil",
-        google_meet:"https://meet.google.com/ybb-vqrw-urm",
+        google_meet:"https://meet.google.com/ybb-vqrw-urm?pli=1&authuser=1",
     }
 }
 var timings={
